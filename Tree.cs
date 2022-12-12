@@ -1,8 +1,8 @@
 ﻿// ReSharper disable ConditionIsAlwaysTrueOrFalseAccordingToNullableAPIContract
 
-namespace TrangenderTree;
+namespace Tree;
 
-public class TransTree
+public class Tree
 {
     internal Node Root { get; set; }
 
