@@ -1,5 +1,5 @@
 ﻿#pragma warning disable CS8618
-namespace TrangenderTree;
+namespace Tree;
 
 public class Node
 {

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrangenderTree", "TrangenderTree\TrangenderTree.csproj", "{BC46FCA6-AEF2-4811-8DAB-BAD1BE28B77F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{BC46FCA6-AEF2-4811-8DAB-BAD1BE28B77F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

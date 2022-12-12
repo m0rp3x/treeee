@@ -1,10 +1,11 @@
-﻿namespace TrangenderTree;
+﻿namespace Tree;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        TransTree binaryTree = new();
+        Tree binaryTree;
+        binaryTree = new();
         binaryTree.Add(1);
         binaryTree.Add(2);
         binaryTree.Add(7);
