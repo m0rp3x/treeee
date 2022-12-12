@@ -1,4 +1,3 @@
-﻿// ReSharper disable ConditionIsAlwaysTrueOrFalseAccordingToNullableAPIContract
 
 namespace Tree;
 
